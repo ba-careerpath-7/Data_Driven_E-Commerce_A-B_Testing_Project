@@ -2,6 +2,21 @@
 Customer Transaction A/B Testing Project from the resume.
 
 
+
+---
+
+### Project well-received by Kaggle Grandmaster and Expert contributors
+
+**Last verified: 12/16/25**
+
+Kaggle Link:
+https://www.kaggle.com/code/brettean7/data-driven-e-commerce-a-b-testing-project
+
+
+---
+
+
+
 # ⭐ Introduction from the Project:
 
 Hello guys!
