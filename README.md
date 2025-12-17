@@ -12,6 +12,7 @@ Customer Transaction A/B Testing Project from the resume.
 Kaggle Link:
 https://www.kaggle.com/code/brettean7/data-driven-e-commerce-a-b-testing-project
 
+This project was acknowledged by top Kaggle contributors for clarity and methodological rigor.
 
 ---
 
