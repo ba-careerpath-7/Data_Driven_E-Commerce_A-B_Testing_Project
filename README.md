@@ -1,4 +1,4 @@
-# Customer_Transaction_A-B_Testing_Project
+# Data Driven E-Commerce A/B Testing Project
 Customer Transaction A/B Testing Project from the resume.
 
 
