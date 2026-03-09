@@ -45,7 +45,7 @@ Bias Mitigation: Identifying and documenting sampling bias to prevent flawed bus
 | **3** | Difference in Proportions (Churn) | Failed to Reject | $p = 0.80$ | **Global Consistency:** Churn rates are stable across USA/International markets. |
 | **4** | Difference in Means (Age/NLP) | **Rejected Null** | $p = 0.043$ | **Target Older Demographics:** Significant increase in emotional sentiment scores for older users. |
 | **5** | One Way ANOVA (Geography) | **Rejected Null** | $p \approx 0$ | **Tiered Expansion:** Prioritize high-performance markets: USA, UK, and Germany. |
-| **6** | Bootstrap Resampling (Gender) | Confirmed Test 2 | CI contains 0 | **Validation:** Resampling confirms gender is not a statistically significant factor for income. |
+| **6** | Bootstrap Resampling (Gender) | Failed to Reject (Confirmed Test 2) | CI contains 0 | **Validation:** Resampling confirms gender is not a statistically significant factor for income. |
 
 
 
