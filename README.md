@@ -40,8 +40,8 @@ Bias Mitigation: Identifying and documenting sampling bias to prevent flawed bus
 
 | Test # | Statistical Test | Finding | Evidence ($p$-value or CI) | Marketing Suggestion |
 | :--- | :--- | :--- | :--- | :--- |
-| **1** | Single Mean Test (Income) | Rejected Null | $p \approx 0$ | **Caution:** Potential sampling bias identified; findings may not be reliable. |
-| **2** | Difference in Means (Gender) | Failed to Reject | $p = 0.35$ | **Gender-Neutral:** No evidence that gender drives income variance. Avoid gender-specific targeting. |
+| **1** | Single Mean Test (Income) | Rejected Null | $p \approx 0$ | **Caution:** Potential sampling bias identified; $p$-value may not be reliable. |
+| **2** | Difference in Means (Gender) | Failed to Reject | $p = 0.35$ | **Gender-Neutral:** Not enough evidence that gender drives income variance. Avoid gender-specific targeting. |
 | **3** | Difference in Proportions (Churn) | Failed to Reject | $p = 0.80$ | **Global Consistency:** Churn rates are stable across USA/International markets. |
 | **4** | Difference in Means (Age/NLP) | **Rejected Null** | $p = 0.043$ | **Target Older Demographics:** Significant increase in emotional sentiment scores for older users. |
 | **5** | One Way ANOVA (Geography) | **Rejected Null** | $p \approx 0$ | **Tiered Expansion:** Prioritize high-performance markets: USA, UK, and Germany. |
