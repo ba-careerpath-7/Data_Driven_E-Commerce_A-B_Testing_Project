@@ -38,7 +38,7 @@ Bias Mitigation: Identifying and documenting sampling bias to prevent flawed bus
 
 ## 📊 Marketing Analytics & Hypothesis Testing Results
 
-| Test # | Statistical Test | Finding | Evidence ($p$-value) | Marketing Suggestion |
+| Test # | Statistical Test | Finding | Evidence ($p$-value or CI) | Marketing Suggestion |
 | :--- | :--- | :--- | :--- | :--- |
 | **1** | Single Mean Test (Income) | Rejected Null | $p \approx 0$ | **Caution:** Potential sampling bias identified; findings may not be reliable. |
 | **2** | Difference in Means (Gender) | Failed to Reject | $p = 0.35$ | **Gender-Neutral:** No evidence that gender drives income variance. Avoid gender-specific targeting. |
