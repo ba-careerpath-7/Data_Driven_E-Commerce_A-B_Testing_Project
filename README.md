@@ -36,7 +36,7 @@ Bias Mitigation: Identifying and documenting sampling bias to prevent flawed bus
 
 ---
 
-## 📊 Marketing Analytics & Hypothesis Testing Results
+## 📊 Marketing Analytics & Hypothesis Testing Results (for this specific anonymous company data set):
 
 | Test # | Statistical Test | Finding | Evidence ($p$-value or CI) | Marketing Suggestion |
 | :--- | :--- | :--- | :--- | :--- |
