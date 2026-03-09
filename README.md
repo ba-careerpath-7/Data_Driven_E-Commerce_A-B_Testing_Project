@@ -17,11 +17,15 @@ This project was acknowledged by top Kaggle contributors for clarity and methodo
 ---
 
 
-📊 Marketing Analytics & Hypothesis Testing: Multi-National Consumer Insights
-Project Overview
+**📊 Marketing Analytics & Hypothesis Testing: Multi-National Consumer Insights**
+
+* Project Overview:
+
 This project applies rigorous statistical inference and A/B testing to a multi-national consumer dataset. The goal was to move beyond surface-level metrics to determine which demographic and geographic factors significantly impact revenue and customer retention.
 
-Core Methodologies
+---
+*Core Methodologies*
+
 Inferential Statistics: A/B Testing, One-Way ANOVA, and Proportion Testing.
 
 NLP Integration: Sentiment Analysis of customer feedback to quantify emotional engagement.
@@ -30,6 +34,7 @@ Computational Stats: Bootstrap Resampling to validate parametric test assumption
 
 Bias Mitigation: Identifying and documenting sampling bias to prevent flawed business logic.
 
+---
 
 
 
