@@ -48,7 +48,7 @@ Bias Mitigation: Identifying and documenting sampling bias to prevent flawed bus
 | **6** | Bootstrap Resampling (Gender) | Failed to Reject (Confirmed Test 2) | CI contains 0 | **Validation:** Resampling confirms gender is not a statistically significant factor for income. |
 
 
-
+---
 
 ### 💡 Business Value Delivered
 * **Budget Optimization:** Prevented wasteful gender-based ad spend since there was not enough evidence that genders show signficiant income differnces. 
