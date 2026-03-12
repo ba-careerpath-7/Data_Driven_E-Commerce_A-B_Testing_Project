@@ -1,11 +1,11 @@
-# Data Driven E-Commerce A/B Testing Project
+# ✌🏼 Data Driven E-Commerce A/B Testing Project
 Customer Transaction A/B Testing Project from the resume.
 
 
 
 ---
 
-## Project well-received by Kaggle Grandmaster and Expert contributors
+## 🎉 Project well-received by Kaggle Grandmaster and Expert contributors
 
 **Last verified: 12/16/25**
 
@@ -22,14 +22,7 @@ This project will use anonymous customer transaction data. This data contains 10
 
 * Variables such as age, gender, and country will be our groups that we compare. Notice that these variables are discrete numbers or categorical types.
 
-* Variables such as annual income, number of purchases, and churn rates are continuous numbers that can be decimals. We will measure how groups differ from each other using these continuous variables. Additionally, notice that feedback ratings are words, not numbers. In this project, I will go over how to use NLP to get numerical scores out of those sentences!
-
-
-
-
-
-
-
+* Variables such as annual income, number of purchases, and churn rates are continuous numbers that can be decimals. We will measure how groups differ from each other using these continuous variables. Additionally, notice that feedback ratings are words, not numbers. In this project, I will go over how to use Natural Language Processing (NLP) to get numerical scores out of those feedback ratings!
 
 ---
 
@@ -45,13 +38,11 @@ Does this data set show a statistically different average from the USA average a
 
 Do we have evidence that males and females have different average annual incomes?
 
-
 * Question 3. Difference in Proportions A/B Test on churned customers for USA and other countries:
 
 Do we have evidence that the proportion of USA churned customers is different from the proportion of churned customers from other countries?
 
 (Churned definition: To stop using a product or service.)
-
 
 * Question 4. Difference in Means A/B Test on feedback text for young and elder people (Using NLP):
 
@@ -84,10 +75,15 @@ Can we give additional evidence of Question 2's result? We will use a process ca
 | **5** | One Way ANOVA (Geography) | **Rejected Null** | $p \approx 0$ | **Tiered Expansion:** Prioritize high-performance markets: USA, UK, and Germany. |
 | **6** | Bootstrap Resampling (Gender) | Failed to Reject (Confirmed Test 2's findings) | CI contains 0 | **Validation:** Resampling confirms gender is not a statistically significant factor for income. |
 
+* NOTE: Please refer to the project to see the actual process of seeing these statistical tests in action! 
 
-### 📈 Interesting plots for some of the Statistical Tests above:
+
+### 📈 Interesting numbers and pictures for some of the Statistical Tests above:
 
 
+**Test 2: Male and Female and their Annual Income sample means**
+
+<img width="204" height="163" alt="github_AB_3" src="https://github.com/user-attachments/assets/b14bcef9-3b5f-47a4-b85e-fbd8df45e3e4" />
 
 
 **Test 5: Box Plot of 5 Countries' Purchase Numbers**
