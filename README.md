@@ -43,6 +43,9 @@ This project was acknowledged by top Kaggle contributors for clarity and methodo
 
 ### 📈 Interesting plots for some of the Statistical Tests above:
 
+
+
+
 **Test 5: Box Plot of 5 Countries' Purchase Numbers**
 
 <img width="999" height="710" alt="github_AB_1_EDITED" src="https://github.com/user-attachments/assets/7cc60b47-66f2-44b5-af8d-27ba549947c8" />
@@ -52,6 +55,7 @@ Remember, the middle lines in a box plot represent the median (the 50th percenti
 **Test 6: Histogram of Bootstrap Statistics and Bootstrap Confidence Interval**
 
 
+<img width="1247" height="729" alt="github_AB_2" src="https://github.com/user-attachments/assets/62908525-a39e-45a2-a39e-12cd4a14260b" />
 
 
 ### 💡 Business Value Delivered
