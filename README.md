@@ -29,7 +29,7 @@ This project was acknowledged by top Kaggle contributors for clarity and methodo
 
 
 
-## 📊 Marketing Analytics & Hypothesis Testing Results (for this specific anonymous company data set):
+### 📊 Marketing Analytics & Hypothesis Testing Results (for this specific anonymous company data set):
 
 | Test # | Statistical Test | Finding | Evidence ($p$-value or CI) | Marketing Suggestion |
 | :--- | :--- | :--- | :--- | :--- |
