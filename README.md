@@ -16,9 +16,7 @@ This project was acknowledged by top Kaggle contributors for clarity and methodo
 
 ---
 
-## 1. ⭐ What is this E-Commerce A/B Testing  Project about?
-
-### What questions are we examining?
+## 1. ⭐ What is this E-Commerce A/B Testing Project about?
 
 This project will use anonymous customer transaction data. This data contains 10,000 customers with variables such as age, gender, country, annual income, number of purchases, feedback ratings, and churn rates.
 
@@ -26,6 +24,16 @@ This project will use anonymous customer transaction data. This data contains 10
 
 * Variables such as annual income, number of purchases, and churn rates are continuous numbers that can be decimals. We will measure how groups differ from each other using these continuous variables. Additionally, notice that feedback ratings are words, not numbers. In this project, I will go over how to use NLP to get numerical scores out of those sentences!
 
+
+
+
+
+
+
+
+---
+
+## 2. 💵 The Business Problem: 6 Questions of Demographic Characteristics
 
 **We will answer 6 questions in this project:**
 
@@ -55,16 +63,9 @@ Is there evidence that at LEAST one country has a different average number of pu
 
 * Question 6. Difference in Means A/B Test on annual income for Males and Females (Bootstrap Resampling to revisit Question 2):
 
-Can we give additional evidence of Question 2's result? We will use a process called bootstrapping that mimics real data, even if our sample size is small.
+Can we give additional evidence of Question 2's result? We will use a process called bootstrapping that mimics real data, even if our sample size is small. 
 
 
-
-
-
-
----
-
-## 2. 💵 The Business Problem: ______________
 
 
 ---
