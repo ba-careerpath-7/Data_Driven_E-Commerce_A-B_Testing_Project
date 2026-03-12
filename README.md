@@ -98,7 +98,7 @@ In this company data, the countries of Germany, UK, and the USA appear to have h
 
 <img width="1247" height="729" alt="github_AB_2" src="https://github.com/user-attachments/assets/62908525-a39e-45a2-a39e-12cd4a14260b" />
 
-This bootstrap CI is based on the hypothesis test of gender annual income means:
+This bootstrap CI is based on the bootstrap hypothesis test of gender annual income means:
 
 $$H_0: \mu_{Female} - \mu_{Male} = 0$$
 $$H_a: \mu_{Female} - \mu_{Male} \ne 0$$
