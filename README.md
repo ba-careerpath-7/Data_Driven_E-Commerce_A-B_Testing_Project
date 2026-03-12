@@ -43,7 +43,14 @@ This project was acknowledged by top Kaggle contributors for clarity and methodo
 
 ### 📈 Interesting plots for some of the Statistical Tests above:
 
-[i will post some pie charts, box plots, and so on]
+**Test 5: Box Plot of 5 countries purchase numbers**
+
+
+
+
+Remember, the middle lines in a box plot represent the median (the 50th percentile). It is not the mean (average)!
+
+
 
 ### 💡 Business Value Delivered
 * **Budget Optimization:** Prevented wasteful gender-based ad spend since there was not enough evidence that genders show significant  income differences. 
