@@ -33,7 +33,7 @@ This project was acknowledged by top Kaggle contributors for clarity and methodo
 
 | Test # | Statistical Test | Finding | Evidence ($p$-value or CI) | Marketing Suggestion |
 | :--- | :--- | :--- | :--- | :--- |
-| **1** | Single Mean Test (Income) | Rejected Null | $p \approx 0$ | **Caution:** Potential sampling bias identified; $p$-value may not be reliable. |
+| **1** | Single Mean Test (Income) | Rejected Null (But observations may not represent all of the U.S.) | $p \approx 0$ | **Caution:** Potential sampling bias identified; $p$-value may not be reliable. |
 | **2** | Difference in Means (Gender) | Failed to Reject | $p = 0.35$ | **Gender-Neutral:** Not enough evidence that male and female genders have significant income differences. Avoid gender-specific targeting. |
 | **3** | Difference in Proportions (Churn) | Failed to Reject | $p = 0.80$ | **Global Consistency:** Churn rates are stable across USA/International markets. |
 | **4** | Difference in Means (Age/NLP) | **Rejected Null** | $p = 0.043$ | **Target Older Demographics:** Significant increase in emotional sentiment scores for older users. |
