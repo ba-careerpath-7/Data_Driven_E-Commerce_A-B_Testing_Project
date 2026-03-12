@@ -42,6 +42,11 @@ This project was acknowledged by top Kaggle contributors for clarity and methodo
 
 
 
+### 💡 Business Value Delivered
+* **Budget Optimization:** Prevented wasteful gender-based ad spend since there was not enough evidence that genders show signficiant income differnces. 
+* **Strategic Growth:** Identified the "Older Demographic" as the highest-value emotional segment for targeted loyalty programs.
+* **Risk Mitigation:** Flagged possible unreliable sampling for this data set (The population USA income mean is still reliable), preventing flawed financial forecasting.
+
 
 
 ---
@@ -78,9 +83,4 @@ Bias Mitigation: Identifying and documenting sampling bias to prevent flawed bus
 
 
 
-
-### 💡 Business Value Delivered
-* **Budget Optimization:** Prevented wasteful gender-based ad spend since there was not enough evidence that genders show signficiant income differnces. 
-* **Strategic Growth:** Identified the "Older Demographic" as the highest-value emotional segment for targeted loyalty programs.
-* **Risk Mitigation:** Flagged possible unreliable sampling for this data set (The population USA income mean is still reliable), preventing flawed financial forecasting.
 
