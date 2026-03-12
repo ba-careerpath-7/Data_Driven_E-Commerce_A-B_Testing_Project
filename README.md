@@ -103,7 +103,7 @@ This bootstrap CI is based on the hypothesis test of gender annual income means:
 $$H_0: \mu_{Female} - \mu_{Male} = 0$$
 $$H_a: \mu_{Female} - \mu_{Male} \ne 0$$
 
-The value of 0 is inside this bootstrap CI!  Therefore, we fail to reject the null hypothesis. We do not have enough evidence that male and females genders have significantly different incomes. We need more data to conclude that different genders earn different amount of money.
+The value of 0 is inside this bootstrap CI!  Therefore, we fail to reject the null hypothesis. We do not have enough evidence that male and females genders have significantly different incomes. For both the original and the bootstrap hypothesis tests, perhaps we need **more data** to conclude that different genders earn different amount of money.
 
 
 ### 💡 Business Value Delivered
