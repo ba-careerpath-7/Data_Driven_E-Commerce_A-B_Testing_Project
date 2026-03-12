@@ -16,7 +16,7 @@ This project was acknowledged by top Kaggle contributors for clarity and methodo
 
 ---
 
-## 1. ⭐ What is this _____ Project about?
+## 1. ⭐ What is this E-Commerce A/B Testing  Project about?
 
 
 ---
