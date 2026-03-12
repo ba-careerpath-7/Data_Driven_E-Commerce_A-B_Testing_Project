@@ -41,9 +41,12 @@ This project was acknowledged by top Kaggle contributors for clarity and methodo
 | **6** | Bootstrap Resampling (Gender) | Failed to Reject (Confirmed Test 2) | CI contains 0 | **Validation:** Resampling confirms gender is not a statistically significant factor for income. |
 
 
+### 📈 Interesting plots for some of the Statistical Tests above:
+
+[i will post some pie charts, box plots, and so on]
 
 ### 💡 Business Value Delivered
-* **Budget Optimization:** Prevented wasteful gender-based ad spend since there was not enough evidence that genders show signficiant income differnces. 
+* **Budget Optimization:** Prevented wasteful gender-based ad spend since there was not enough evidence that genders show significant  income differences. 
 * **Strategic Growth:** Identified the "Older Demographic" as the highest-value emotional segment for targeted loyalty programs.
 * **Risk Mitigation:** Flagged possible unreliable sampling for this data set (The population USA income mean is still reliable), preventing flawed financial forecasting.
 
