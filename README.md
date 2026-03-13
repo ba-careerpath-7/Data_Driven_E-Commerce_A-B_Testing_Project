@@ -81,12 +81,12 @@ Can we give additional evidence of Question 2's result? We will use a process ca
 ### 📈 Interesting numbers and pictures for some of the Statistical Tests above:
 
 
-**Test 2: Male and Female and their Annual Income sample means**
+**📊 Test 2: Male and Female and their Annual Income sample means**
 
 <img width="204" height="163" alt="github_AB_3" src="https://github.com/user-attachments/assets/b14bcef9-3b5f-47a4-b85e-fbd8df45e3e4" />
 
 
-**Test 5: Box Plot of 5 Countries' Purchase Numbers**
+**📊 Test 5: Box Plot of 5 Countries' Purchase Numbers**
 
 <img width="999" height="710" alt="github_AB_1_EDITED" src="https://github.com/user-attachments/assets/7cc60b47-66f2-44b5-af8d-27ba549947c8" />
 
@@ -94,7 +94,7 @@ Remember, the middle lines in a box plot represent the median (the 50th percenti
 
 In this company data, the countries of Germany, UK, and the USA appear to have higher medians and overall distributions than India and Brazil.
 
-**Test 6: Histogram of Bootstrap Statistics and Bootstrap Confidence Interval (CI)**
+**📊 Test 6: Histogram of Bootstrap Statistics and Bootstrap Confidence Interval (CI)**
 
 <img width="1247" height="729" alt="github_AB_2" src="https://github.com/user-attachments/assets/62908525-a39e-45a2-a39e-12cd4a14260b" />
 
