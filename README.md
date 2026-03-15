@@ -94,6 +94,28 @@ Can we give additional evidence of Question 2's result? We will use a process ca
 <img width="204" height="163" alt="github_AB_3" src="https://github.com/user-attachments/assets/b14bcef9-3b5f-47a4-b85e-fbd8df45e3e4" />
 
 
+
+
+**📊 Test 4: Sentiment Quantization & Demographic A/B Testing**
+
+![image alt](https://github.com/ba-careerpath-7/Data_Driven_E-Commerce_A-B_Testing_Project/blob/80c135dc5e3de9a613e51bfd82e9088c208cc637/github_AB_NLP_part_1.PNG)
+
+Here are some of the ratings that the online customers gave for a product. 
+Using NLP, I assigned:
+* One positive word counted as +1 emotion score.
+* One negative word counted as -1 emotion scores.
+* A text rating could have multiple positive words and result in high emotion scores or have multiple negatice words and reuslt in low emotion scores.
+
+* I had two groups, young people and elder people. (Check the project for more details and the criteria.)
+
+
+![image alt](https://github.com/ba-careerpath-7/Data_Driven_E-Commerce_A-B_Testing_Project/blob/80c135dc5e3de9a613e51bfd82e9088c208cc637/github_AB_NLP_part_2.PNG)
+
+It appears that elder people have a noticiablely higher average emotion score compared to young people. 
+
+
+
+
 **📊 Test 5: Box Plot of 5 Countries' Purchase Numbers**
 
 <img width="999" height="710" alt="github_AB_1_EDITED" src="https://github.com/user-attachments/assets/7cc60b47-66f2-44b5-af8d-27ba549947c8" />
