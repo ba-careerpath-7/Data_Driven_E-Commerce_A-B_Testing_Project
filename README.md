@@ -88,12 +88,16 @@ Can we give additional evidence of Question 2's result? We will use a process ca
 
 ### 📈 Interesting numbers and pictures for some of the Statistical Tests above:
 
+**NOTE:** All statsitical tests had a significance level of $\alpha = 0.05$!
+
 
 **📊 Test 2: Male and Female and their Annual Income sample means**
 
 <img width="204" height="163" alt="github_AB_3" src="https://github.com/user-attachments/assets/b14bcef9-3b5f-47a4-b85e-fbd8df45e3e4" />
 
 
+The sample means of Male and Female annual incomes seem noticiably different and yet a p-value of about 0.35 is obtained. 
+Perhaps the variances of these two groups are too large or we do not have enough data. 
 
 
 **📊 Test 4: Sentiment Quantization & Demographic A/B Testing**
@@ -113,7 +117,17 @@ Using NLP, I assigned:
 
 It appears that elder people have a noticiablely higher average emotion score compared to young people. 
 
+Lets test the emotion_scores means of:
 
+$$H_0: \mu_{Young} - \mu_{Elder} = 0$$
+
+$$H_a: \mu_{Young} - \mu_{Elder} \ne 0$$
+
+![image alt](https://github.com/ba-careerpath-7/Data_Driven_E-Commerce_A-B_Testing_Project/blob/e7eb777543ab2dce09999a899d60a5df37841a01/github_AB_NLP_part_3.PNG)
+
+* We conclude that we do have enough evidence to say that average emotion scores for young people and and elder people are different!
+
+* Marketing Implication: A company should consider focus on selling products to older age groups. Their emotion scores appear higher than average, which could lead to **better ratings** for a company's products.
 
 
 **📊 Test 5: Box Plot of 5 Countries' Purchase Numbers**
