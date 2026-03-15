@@ -3,6 +3,14 @@ Customer Transaction A/B Testing Project from the resume.
 
 
 
+
+--- 
+## 🌈 Table of Contents for this Project:
+
+![image alt](https://github.com/ba-careerpath-7/Data_Driven_E-Commerce_A-B_Testing_Project/blob/a11b89e97110bc19acde8a6cc44797776bc80de4/github_AB_table_content.PNG)
+
+
+
 ---
 
 ## 🎉 Project well-received by Kaggle Grandmaster and Expert contributors
