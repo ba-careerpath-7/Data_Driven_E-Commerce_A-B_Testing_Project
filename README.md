@@ -88,17 +88,52 @@ Can we give additional evidence of Question 2's result? We will use a process ca
 
 ### 📈 Interesting numbers and pictures for some of the Statistical Tests above:
 
+---
 **NOTE:** All statsitical tests had a significance level of $\alpha = 0.05$!
+
+**NOTE:** Many of these experiments had  similar sample variances for both groups:
+
+If we think that the variances for both groups are the same, then we use this test statistic formula:
+
+$$t_{obs} = \frac{\bar x_A - \bar x_B}{s_p \sqrt{\frac{1}{n_A} + \frac{1}{n_B}}}$$
+
+Where the pooled variance $s_p$ formula is:
+
+$$s_p = \sqrt{\frac{(n_A -1)* s^2_A + (n_B -1)* s^2_B}{n_1 + n_B - 2}}$$
+
+Degrees of freedom are calculated differently from a single mean test:
+
+$$df = n_A + n_B - 2$$
+
+Where:
+ $\bar x_A$ and $\bar x_B$ are the sample means for group A 
+*and group B respectively.
+
+* $n_A$ and $n_B$ are the sample size for group A and group B respectively.
+
+--- 
+
 
 
 **📊 Test 2: Male and Female and their Annual Income sample means**
 
-<img width="204" height="163" alt="github_AB_3" src="https://github.com/user-attachments/assets/b14bcef9-3b5f-47a4-b85e-fbd8df45e3e4" />
+![image_alt](https://github.com/ba-careerpath-7/Data_Driven_E-Commerce_A-B_Testing_Project/blob/daae20b713ef3b95577bedaf5473f52e3614f1d2/github_AB_regular_part_1.PNG)
 
 
 The sample means of Male and Female annual incomes seem noticiably different and yet a p-value of about 0.35 is obtained. 
 Perhaps the variances of these two groups are too large or we do not have enough data. 
 
+Both group's sample variances appear similar. 
+
+Lets test the annual_income means of:
+
+$$H_0: \mu_{Female} - \mu_{Male} = 0$$
+
+$$H_a: \mu_{Female} - \mu_{Male} \ne 0$$
+
+![image_alt](https://github.com/ba-careerpath-7/Data_Driven_E-Commerce_A-B_Testing_Project/blob/daae20b713ef3b95577bedaf5473f52e3614f1d2/github_AB_regular_part_2.PNG)
+
+We probably fail to reject the null hypothesis since high variance tends to result in high p-values.
 
 **📊 Test 4: Sentiment Quantization & Demographic A/B Testing**
 
@@ -110,12 +145,16 @@ Using NLP, I assigned:
 * One negative word counted as -1 emotion scores.
 * A text rating could have multiple positive words and result in high emotion scores or have multiple negatice words and reuslt in low emotion scores.
 
-* I had two groups, young people and elder people. (Check the project for more details and the criteria.)
+* I had two groups, young people and elder people. Is there evidence that a specific group tends to leave more positive ratings on average? (Check the project for more details and the criteria.)
 
 
 ![image alt](https://github.com/ba-careerpath-7/Data_Driven_E-Commerce_A-B_Testing_Project/blob/80c135dc5e3de9a613e51bfd82e9088c208cc637/github_AB_NLP_part_2.PNG)
 
 It appears that elder people have a noticiablely higher average emotion score compared to young people. 
+
+(Some of these numbers may look like sample proportions, but this is NOT about proportions!) 
+
+Both group's sample variances appear similar. 
 
 Lets test the emotion_scores means of:
 
@@ -125,9 +164,6 @@ $$H_a: \mu_{Young} - \mu_{Elder} \ne 0$$
 
 ![image alt](https://github.com/ba-careerpath-7/Data_Driven_E-Commerce_A-B_Testing_Project/blob/e7eb777543ab2dce09999a899d60a5df37841a01/github_AB_NLP_part_3.PNG)
 
-* We conclude that we do have enough evidence to say that average emotion scores for young people and and elder people are different!
-
-* Marketing Implication: A company should consider focus on selling products to older age groups. Their emotion scores appear higher than average, which could lead to **better ratings** for a company's products.
 
 
 **📊 Test 5: Box Plot of 5 Countries' Purchase Numbers**
