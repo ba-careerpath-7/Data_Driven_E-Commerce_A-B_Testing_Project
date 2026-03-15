@@ -83,12 +83,8 @@ Can we give additional evidence of Question 2's result? We will use a process ca
 | **5** | One Way ANOVA (Geography) | **Rejected Null** | $p \approx 0$ | **Tiered Expansion:** Prioritize high-performance markets: USA, UK, and Germany. |
 | **6** | Bootstrap Resampling (Gender) | Failed to Reject (Confirmed Test 2's findings) | CI contains 0 | **Validation:** Resampling confirms gender is not a statistically significant factor for income. |
 
-* NOTE: Please refer to the project to see the actual process of seeing these statistical tests in action! 
+**NOTE:** Please refer to the project to see the actual process of seeing these statistical tests in action! 
 
-
-### 📈 Interesting numbers and pictures for some of the Statistical Tests above:
-
----
 **NOTE:** All statsitical tests had a significance level of $\alpha = 0.05$!
 
 **NOTE:** Many of these experiments had  similar sample variances for both groups:
@@ -106,12 +102,14 @@ Degrees of freedom are calculated differently from a single mean test:
 $$df = n_A + n_B - 2$$
 
 Where:
- $\bar x_A$ and $\bar x_B$ are the sample means for group A 
-*and group B respectively.
+* $\bar x_A$ and $\bar x_B$ are the sample means for group A and group B respectively.
 
 * $n_A$ and $n_B$ are the sample size for group A and group B respectively.
 
---- 
+
+
+### 📈 Interesting numbers and pictures for some of the Statistical Tests above:
+
 
 
 
