@@ -16,6 +16,8 @@ https://www.kaggle.com/code/brettean7/data-driven-e-commerce-a-b-testing-project
 
 * 2 Kaggle Master upvotes (Top 1% of practitioners).
 
+---
+
 ### This project demonstrates a multi-layered approach to experimental design, featuring:
 
 * Classic Inference: Single Mean & Two-Sample A/B Testing.
