@@ -1,8 +1,30 @@
 # ✌🏼 Data Driven E-Commerce A/B Testing Project
 Customer Transaction A/B Testing Project from the resume.
 
+---
 
+## 🎉 Project well-received by Kaggle Grandmaster and Master contributors
 
+**Last verified: 3/20/26**
+
+Kaggle Link:
+https://www.kaggle.com/code/brettean7/data-driven-e-commerce-a-b-testing-project
+
+### Community Recognition:
+
+* 1 Kaggle Grandmaster upvote (Top 0.1% of practitioners)
+
+* 2 Kaggle Master upvotes (Top 1% of practitioners).
+
+### This project demonstrates a multi-layered approach to experimental design, featuring:
+
+* Classic Inference: Single Mean & Two-Sample A/B Testing.
+
+* Multivariate Analysis: ANOVA for multi-group comparisons.
+
+* Robust Statistics: Bootstrapping for non-normal distributions and variance estimation.
+
+* Specialized Domain: A/B Testing applied to NLP (Natural Language Processing) metrics.
 
 --- 
 ## 📋 Table of Contents for this Project:
@@ -10,17 +32,6 @@ Customer Transaction A/B Testing Project from the resume.
 ![image alt](https://github.com/ba-careerpath-7/Data_Driven_E-Commerce_A-B_Testing_Project/blob/a11b89e97110bc19acde8a6cc44797776bc80de4/github_AB_table_content.PNG)
 
 
-
----
-
-## 🎉 Project well-received by Kaggle Grandmaster and Expert contributors
-
-**Last verified: 12/16/25**
-
-Kaggle Link:
-https://www.kaggle.com/code/brettean7/data-driven-e-commerce-a-b-testing-project
-
-This project was acknowledged by top Kaggle contributors for clarity and methodological rigor.
 
 ---
 
